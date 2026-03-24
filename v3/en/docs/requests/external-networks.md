@@ -24,7 +24,7 @@ Registered email address:
 
 * Destination server information, IP address/hostname, role, and administrator (or legal entity that manages the server). 
 * Port number of the destination. 
-* Peoriod of communication(start date - end date).
+* Period of communication(start date - end date).
 * Purpose of communication. 
 * Document or URL, etc. explaining that the server name and port number are necessary to achieve the purpose. 
 ```
@@ -39,4 +39,4 @@ Subject: ABCI: Application for external network communication (ABCI Group name)
 
 Please [contact](../contact.md) us for the application procedures. Note that the review process may take approximately two to four weeks, so we kindly ask that you submit your application well in advance.
 
-The outbound communication will be permmited only for the ABCI groups whose ABCI application are submitted and approved. However, you can submit an application on the communication permission before submitting the ABCI application.
+The outbound communication will be permitted only for the ABCI groups whose ABCI application are submitted and approved. However, you can submit an application on the communication permission before submitting the ABCI application.
